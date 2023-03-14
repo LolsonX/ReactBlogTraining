@@ -1,0 +1,28 @@
+{
+  "blogs": [
+    {
+      "title": "My first Blog",
+      "body": "Example body\nIt is blah blah arm arm bla galasdlgsdgflsd",
+      "author": "mario",
+      "id": 1
+    },
+    {
+      "title": "Opening party!",
+      "body": "Example body\nIt is blah blah arm arm bla galasdlgsdgflsd",
+      "author": "yoshi",
+      "id": 2
+    },
+    {
+      "title": "Test",
+      "body": "test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test ",
+      "author": "mario",
+      "id": 3
+    },
+    {
+      "title": "Test",
+      "body": "test test test test test test test test test test test test test test test test test v",
+      "author": "mario",
+      "id": 4
+    }
+  ]
+}
